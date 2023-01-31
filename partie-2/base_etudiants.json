@@ -1,0 +1,32 @@
+[
+    {
+        "nom": "Joseph",
+        "notes": [
+            10,
+            5,
+            9
+        ],
+        "moyenne": 8.0,
+        "rang": 0
+    },
+    {
+        "nom": "Rachid",
+        "notes": [
+            8,
+            7,
+            6
+        ],
+        "moyenne": 7.0,
+        "rang": 1
+    },
+    {
+        "nom": "Josué",
+        "notes": [
+            2,
+            7,
+            10
+        ],
+        "moyenne": 6.33,
+        "rang": 2
+    }
+]
